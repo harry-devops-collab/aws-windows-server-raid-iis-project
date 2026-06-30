@@ -30,7 +30,7 @@ EC2 Windows Server → EBS Volumes → RAID 1 → IIS Web Server → Hosted Webs
 
 Configured Windows Server instance.
 
-![EC2 Launch](screenshots/ec2-volume.png)
+![Storage Config](screenshots/Storage.png)
 
 ---
 
@@ -38,7 +38,7 @@ Configured Windows Server instance.
 
 Attached additional EBS volumes.
 
-![Storage Config](screenshots/Storage.png)
+![EC2 Launch](screenshots/ec2-volume.png)
 
 ---
 
